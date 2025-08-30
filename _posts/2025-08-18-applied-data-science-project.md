@@ -50,3 +50,4 @@ Privacy: Customer reviews are anonymized, but care must be taken not to expose p
 ## Source Codes and Datasets
 Upload your model files and dataset into a GitHub repo and add the link here. 
 https://github.com/SitiDenielle/itd214_proj
+Dataset (File is too big): https://drive.google.com/file/d/1UgOtD8hhTFFBMu-n4N0RlHw2BsGcta5K/view?usp=drive_link
